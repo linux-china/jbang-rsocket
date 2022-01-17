@@ -1,0 +1,20 @@
+### RSocket response 
+RSOCKET /
+Host: localhost:7000
+Content-Type: text/plain
+
+Hello
+
+### Request/Stream
+STREAM /
+Host: localhost:7000
+Content-Type: text/plain
+
+Hello
+
+### FireAndForget
+FNF /
+Host: localhost:7000
+Content-Type: text/plain
+
+Hello
