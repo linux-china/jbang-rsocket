@@ -1,0 +1,12 @@
+{
+  "aliases": {
+    "ClientExample": {
+      "script-ref": "src/ClientExample.java",
+      "java": "8"
+    },
+    "ServerExample": {
+      "script-ref": "src/ServerExample.java",
+      "java": "8"
+    }
+  }
+}
