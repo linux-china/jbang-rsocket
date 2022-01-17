@@ -18,3 +18,10 @@ Host: localhost:7000
 Content-Type: text/plain
 
 Hello
+
+### Spring Boot RSocket hello
+RSOCKET hello
+Host: localhost:7000
+Content-Type: text/plain
+
+Jackie
