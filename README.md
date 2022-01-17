@@ -7,6 +7,7 @@ RSocket examples with [JBang](https://www.jbang.dev/download/)
 
 * ServerExample:  `jbang ServerExample@linux-china/jbang-rsocket`
 * ClientExample:  `jbang ClientExample@linux-china/jbang-rsocket`
+* Spring Boot RSocket Server:  `jbang RSocketSpringBootServer@linux-china/jbang-rsocket`
 
 # References
 
