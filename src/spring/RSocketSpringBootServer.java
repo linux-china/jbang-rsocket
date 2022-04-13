@@ -1,6 +1,6 @@
 ///usr/bin/env jbang "$0" "$@" ; exit $?
 //JAVA 8
-//DEPS org.springframework.boot:spring-boot-dependencies:2.6.2@pom
+//DEPS org.springframework.boot:spring-boot-dependencies:2.6.6@pom
 //DEPS org.springframework.boot:spring-boot-starter-rsocket
 //JAVA_OPTIONS -Dspring.rsocket.server.port=7000
 
