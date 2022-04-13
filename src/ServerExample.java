@@ -1,8 +1,8 @@
 ///usr/bin/env jbang "$0" "$@" ; exit $?
 //JAVA 8
 //DEPS org.slf4j:slf4j-simple:1.7.33
-//DEPS io.rsocket:rsocket-core:1.1.1
-//DEPS io.rsocket:rsocket-transport-netty:1.1.1
+//DEPS io.rsocket:rsocket-core:1.1.2
+//DEPS io.rsocket:rsocket-transport-netty:1.1.2
 
 import io.rsocket.Payload;
 import io.rsocket.RSocket;
