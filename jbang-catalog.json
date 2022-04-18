@@ -8,6 +8,14 @@
       "script-ref": "src/ServerExample.java",
       "java": "8"
     },
+    "ClientExampleKt": {
+      "script-ref": "kotlin/src/RSocketClientApp.kt",
+      "java": "8"
+    },
+    "ServerExampleKt": {
+      "script-ref": "kotlin/src/RSocketServerApp.kt",
+      "java": "8"
+    },
     "RSocketSpringBootServer": {
       "script-ref": "src/spring/RSocketSpringBootServer.java",
       "java": "8"
